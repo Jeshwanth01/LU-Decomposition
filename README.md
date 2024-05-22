@@ -49,8 +49,7 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
-"C:\Users\admin\Pictures\Screenshots\jesh 5.png"
+![jesh 5](https://github.com/Jeshwanth01/LU-Decomposition/assets/145525167/7858f788-4e60-4ba3-a6a3-b1b236fd96ce)
 
 
 ## Result:
